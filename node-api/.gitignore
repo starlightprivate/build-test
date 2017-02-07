@@ -1,0 +1,12 @@
+.dist
+node_modules
+bower_components
+dist
+.idea
+.DS_Store
+babel
+newrelic_agent.log
+npm-debug.log
+server-log.log
+
+.vscode
