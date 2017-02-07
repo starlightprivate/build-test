@@ -14,4 +14,3 @@ Follow these steps to create and combined build for front and back end,  docker 
 - ./build.sh
 - docker-compose build
 - dockcer-compose up
-
